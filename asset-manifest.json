@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tonamento-playground/static/css/main.9398ed0a.css",
-    "main.js": "/tonamento-playground/static/js/main.6684557a.js",
+    "main.js": "/tonamento-playground/static/js/main.0d31ac68.js",
     "static/js/787.398c1a46.chunk.js": "/tonamento-playground/static/js/787.398c1a46.chunk.js",
     "static/media/coming-soon.png": "/tonamento-playground/static/media/coming-soon.a341bc02cc3be3405328.png",
     "static/media/The Bomb Sound.ttf": "/tonamento-playground/static/media/The Bomb Sound.1a26a6409daac12e5762.ttf",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/tonamento-playground/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tonamento-playground/index.html",
     "main.9398ed0a.css.map": "/tonamento-playground/static/css/main.9398ed0a.css.map",
-    "main.6684557a.js.map": "/tonamento-playground/static/js/main.6684557a.js.map",
+    "main.0d31ac68.js.map": "/tonamento-playground/static/js/main.0d31ac68.js.map",
     "787.398c1a46.chunk.js.map": "/tonamento-playground/static/js/787.398c1a46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9398ed0a.css",
-    "static/js/main.6684557a.js"
+    "static/js/main.0d31ac68.js"
   ]
 }
