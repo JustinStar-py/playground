@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.49cde725.css",
-    "main.js": "/static/js/main.63e94050.js",
+    "main.css": "/static/css/main.3ba10f97.css",
+    "main.js": "/static/js/main.69f24c3f.js",
     "static/js/458.1c10ae85.chunk.js": "/static/js/458.1c10ae85.chunk.js",
     "static/js/858.e2cada01.chunk.js": "/static/js/858.e2cada01.chunk.js",
     "static/js/631.c09c5bca.chunk.js": "/static/js/631.c09c5bca.chunk.js",
@@ -17,9 +17,10 @@
     "static/media/Rackis Bold.ttf": "/static/media/Rackis Bold.412809adb5e71372954b.ttf",
     "static/media/The Bomb Sound.ttf": "/static/media/The Bomb Sound.1a26a6409daac12e5762.ttf",
     "static/media/Warden Regular.woff2": "/static/media/Warden Regular.1afa553fb1d551148b62.woff2",
+    "static/media/The Bomb Sound.woff2": "/static/media/The Bomb Sound.47bd6cbd4a583af8958a.woff2",
     "index.html": "/index.html",
-    "main.49cde725.css.map": "/static/css/main.49cde725.css.map",
-    "main.63e94050.js.map": "/static/js/main.63e94050.js.map",
+    "main.3ba10f97.css.map": "/static/css/main.3ba10f97.css.map",
+    "main.69f24c3f.js.map": "/static/js/main.69f24c3f.js.map",
     "458.1c10ae85.chunk.js.map": "/static/js/458.1c10ae85.chunk.js.map",
     "858.e2cada01.chunk.js.map": "/static/js/858.e2cada01.chunk.js.map",
     "631.c09c5bca.chunk.js.map": "/static/js/631.c09c5bca.chunk.js.map",
@@ -29,7 +30,7 @@
     "419.ee2c1469.chunk.js.map": "/static/js/419.ee2c1469.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49cde725.css",
-    "static/js/main.63e94050.js"
+    "static/css/main.3ba10f97.css",
+    "static/js/main.69f24c3f.js"
   ]
 }
